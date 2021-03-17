@@ -1,4 +1,4 @@
-# bt3103-week-4
+# Online Zhi Char Restaurant
 
 ## Project setup
 ```
@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### About
+
+This is an online restaurant ordering system, made from VueJS. It also makes use of Firebase as a database and VueCharts to display the visualisations.  
